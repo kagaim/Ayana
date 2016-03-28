@@ -14,7 +14,7 @@ _Ayana_ is a theme built on the foundations of great design and customizability,
 + Supports 3 options for your blog and website sidebar: Left, Right & Full Width
 + Supports 5 types website and blog layouts: Standard, Grid, List, 1st Post Standard and then Grid & 1st Post Standard and then List
 
-### [View Demo](http://bit.ly/demo_ayana)
+#### [View Demo](http://bit.ly/demo_ayana  "Ayana WP theme demo")
 
 The sample images in the demo preview are courtesy of [Pixabay](https://pixabay.com).
 
