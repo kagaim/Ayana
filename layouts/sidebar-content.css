@@ -1,0 +1,55 @@
+/*
+ * Theme Name: Ayana
+ *
+ * Layout: Sidebar-Content
+ *
+ * Learn more: https://developer.wordpress.org/themes/basics/template-files/
+*/
+
+.content-area {
+    float: right;
+    margin: 0 0 0 -390px;
+    width: 100%;
+}
+.site-main {
+    margin: 0 0 0 390px;
+}
+.site-content .widget-area {
+    float: left;
+    overflow: hidden;
+    width: 390px;
+}
+
+.widget {
+    margin-right: 35px;
+}
+
+@media only screen and ( max-width: 1170px ) and ( min-width: 942px ) { 
+    .content-area {
+        margin: 0 0 0 -330px;
+    }
+    .site-main {
+        margin: 0 0 0 330px;
+    }
+    .site-content .widget-area {
+        width: 330px;
+    }
+}
+
+@media only screen and ( max-width: 941px ) { 
+    .content-area {
+        float: none;
+        margin: 0;
+        width: 100%;
+    }
+    
+    .site-main {
+        margin: 0;
+    }
+    
+    .site-content .widget-area {
+        float: none;
+        overflow: hidden;
+        width: 100%;
+    }
+}
