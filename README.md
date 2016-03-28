@@ -1,6 +1,8 @@
 # Ayana
 ##### FREE Minimal WordPress Blog Theme
 
+[![WordPress](https://img.shields.io/wordpress/v/akismet.svg?style=flat-square)]()
+
 _Ayana_ is a theme built on the foundations of great design and customizability, with just a click of a mouse you can change the look and feel in its entirety. With beautiful typography and aesthetics, this theme is perfect for bloggers, who desire, content to be the main focus. Ayana is mobile ready and comes with the below features:
 
 + 100% responsive
