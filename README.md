@@ -18,4 +18,4 @@ _Ayana_ is a theme built on the foundations of great design and customizability,
 
 The sample images in the demo preview are courtesy of [Pixabay](https://pixabay.com).
 
-Thank you for browsing by, for any questions or comments or feedback, I would love to hear from you through the project issues tab.
+##### Thank you for browsing by, for any questions or comments or feedback, I would love to hear from you through the project issues tab.
